@@ -9,7 +9,6 @@ trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443/?type=tcp&securit
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.22:8443/?type=tcp&encryption=none&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Beijing%20%7C%20%5BBL%5D
 hy2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443/?sni=u711540us1244.csgfw.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B*CIDR%5D
-hy2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D
 vless://0b342486-d7c8-46fd-893a-5901225089d4@grinoree.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&sid=75cf#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D
 socks5://47.79.79.35:10808/
@@ -55,7 +54,6 @@ socks5://147.45.146.97:1080/
 socks5://165.154.227.39:1080/
 socks5://77.239.106.24:1080/
 socks5://109.69.21.145:1080/
-socks4://72.195.114.184:4145/
 socks4://72.195.34.58:4145/
 socks4://98.170.57.249:4145/
 socks4://98.181.137.80:4145/
@@ -92,11 +90,9 @@ socks4://68.71.251.134:4145/
 socks4://98.190.239.3:4145/
 socks4://72.223.188.92:4145/
 socks4://70.166.65.160:4145/
-socks4://72.207.33.64:4145/
 socks4://72.207.113.97:4145/
 socks4://72.206.74.126:4145/
 socks4://98.191.0.47:4145/
-socks4://68.71.240.210:4145/
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#%20By%20EbraSha%20%F0%9F%A7%B2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%20By%20EbraSha%20%F0%9F%92%BB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#%20By%20EbraSha%20%F0%9F%9A%A7
@@ -108,17 +104,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%20By%20EbraSha%20%F0%9F%A7%A8
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y@168.138.175.92:9888#%20By%20EbraSha%20%E2%9A%94%EF%B8%8F
 ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#%20By%20EbraSha%20%F0%9F%97%BF
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#%20By%20EbraSha%20%E2%99%A3%EF%B8%8F
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443/?type=tcp&security=tls&sni=130.94.114.217&fp=chrome#%20By%20EbraSha%20%F0%9F%9A%AC
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443/?type=tcp&security=tls&sni=38.54.13.189&allowInsecure=1&fp=chrome#%20By%20EbraSha%20%F0%9F%A7%A0
 vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl3.panel11.ru&fp=firefox&security=reality&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&sid=e069bfaf9ba2069c#%20By%20EbraSha%20%F0%9F%92%BB
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009/?type=tcp&encryption=none#%20By%20EbraSha%20%F0%9F%A7%AC
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748/?encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&type=tcp&headerType=http#%20By%20EbraSha%20%F0%9F%93%BC
-vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443/?type=tcp&encryption=none&sni=www.samsung.com&fp=firefox&security=reality&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&sid=16#%20By%20EbraSha%20%F0%9F%9B%A1%EF%B8%8F
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443/?type=ws&encryption=none&host=python-graysongon.wasmer.app&path=%2F7bd180e8&security=tls&sni=python-graysongon.wasmer.app#%20By%20EbraSha%20%F0%9F%A4%96
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&fp=chrome&security=reality&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674#%20By%20EbraSha%20%F0%9F%94%A5
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880/?type=grpc&encryption=none#%20By%20EbraSha%20%F0%9F%95%B9%EF%B8%8F
 vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=free1.anotherboring.top&fp=firefox&security=reality&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&sid=53cd45d26d7b53fe#%20By%20EbraSha%20%F0%9F%AA%90
-vmess://eyJhZGQiOiIxNjMuMjIzLjIyNC42OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTI0ZGUwZC00M2MxLTQ2ZDYtZGU3Mi00NGM2ODA2YzAzODYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ5NTE1IiwicHMiOiJCeSBFYnJhU2hhIPCfk5siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 hy2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@s482.ccgfw.top:443/
 hy2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@s554.okgfw.top:443/
